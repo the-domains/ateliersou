@@ -1,6 +1,6 @@
 name: ateliersou
 favicon: null
-layout_spectrum: 0.24138
+layout_spectrum: 0.36325
 typography_spectrum: 0.8864454014692456
 title: アトリエ創
 cta:
@@ -23,7 +23,7 @@ color:
     - '#e4ae6e'
     - '#97acc1'
   brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
