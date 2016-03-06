@@ -4,11 +4,18 @@
         <description><![CDATA[アトリエ創]]></description>
         <link>https://thegrid.ai/ateliersou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:05:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateliersou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[作品２]]></title>
+            <description><![CDATA[<article><h1>作品２</h1><p>こちらは昔に作った作品です。</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e12a902d94c74b96dda3c8feb89b7cbbc6219c21.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ateliersou/aaeba694-baca-4180-be6a-832d86e8f716/index.html</link>
+            <guid isPermaLink="false">aaeba694-baca-4180-be6a-832d86e8f716</guid>
+            <pubDate>Sun, 06 Mar 2016 12:05:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[作品１]]></title>
-            <description><![CDATA[<article><h1>作品１</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12dab695-17cb-4bb6-8c5c-ef138adb001b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>作品１</h1><p>粘土で作ったバラに樹脂をのせ、ようやく完成しました。</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/645b484d25c34c6a0bd539d4ca3c5c76dcc70139.jpg"></article>]]></description>
             <link>https://thegrid.ai/ateliersou/f950750d-ee32-4434-a51a-3e30a6f7b49f/index.html</link>
             <guid isPermaLink="false">f950750d-ee32-4434-a51a-3e30a6f7b49f</guid>
             <pubDate>Sun, 06 Mar 2016 12:04:16 GMT</pubDate>
