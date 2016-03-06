@@ -4,8 +4,15 @@
         <description><![CDATA[アトリエ創]]></description>
         <link>https://thegrid.ai/ateliersou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:05:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateliersou/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[作品１]]></title>
+            <description><![CDATA[<article><h1>作品１</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12dab695-17cb-4bb6-8c5c-ef138adb001b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ateliersou/f950750d-ee32-4434-a51a-3e30a6f7b49f/index.html</link>
+            <guid isPermaLink="false">f950750d-ee32-4434-a51a-3e30a6f7b49f</guid>
+            <pubDate>Sun, 06 Mar 2016 12:04:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[粘土から・・・]]></title>
             <description><![CDATA[<article><h1>粘土から・・・</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/008fed4d59b1e595a1ace76b308d087693f05bc3.jpg"></article>]]></description>
