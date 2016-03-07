@@ -1,7 +1,7 @@
 name: ateliersou
 favicon: null
-layout_spectrum: 0.36325
-typography_spectrum: 0.8864454014692456
+layout_spectrum: 0.50043
+typography_spectrum: 1
 title: アトリエ創
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2e2e5'
-    - '#171314'
-    - '#5d5765'
-    - '#e4ae6e'
-    - '#97acc1'
+    - '#b6afa7'
+    - '#8e8878'
+    - '#040404'
+    - '#fbeace'
+    - '#24332e'
   brandStrength: 0
-  lightness: 0.6875
-  saturation: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
